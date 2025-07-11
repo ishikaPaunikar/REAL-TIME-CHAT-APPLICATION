@@ -24,5 +24,11 @@ The project architecture emphasizes modularity and separation of concerns. The f
 
 Overall, this real-time chat application showcases essential modern web development skills, including real-time data handling, front-end component management, event-driven architecture, and responsive UI design. It is a great starting point for developers looking to understand WebSocket integration in front-end frameworks. The application is fully functional and ready for deployment using services like Vercel (for the front-end) and Heroku or Render (for the WebSocket server). This project can be used in educational platforms, internal team communication tools, or as a foundation for more complex messaging applications, making it a strong addition to any full-stack developer’s portfolio.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b22157a8-5845-4734-952f-f4a006aa5a91)
+
+![Image](https://github.com/user-attachments/assets/1800a3bf-e6f0-47ef-9f6f-10f6498ec848)
+
 
 
